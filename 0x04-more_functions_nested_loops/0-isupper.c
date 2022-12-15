@@ -2,9 +2,10 @@
 
 /**
  * _isupper - checks if parameter is a uppercase character.
- * @c: input character
- * Return: 1 if is an uppercase character, 0 in other case.
+ * @c: An input character
+ * Return: 1 if is an uppercase character, 0 otherwise
  */
+
 int _isupper(int c)
 {
 char uppercase = 'A';
